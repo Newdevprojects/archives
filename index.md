@@ -1,10 +1,14 @@
+<link rel="stylesheet" href="Ulysses.css">
+
 # S2 - Archives
 
 ![](at.png) ![](header.jpg) ![](at.png)
 
-### Permalink [https://newdevprojects.github.io/archives/]()
+### Permalink<br><br>[https://newdevprojects.github.io/archives/]()
 
 &nbsp;
+
+[&middot;](list.md)
 
 
 
